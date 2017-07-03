@@ -1,0 +1,2 @@
+e:\documents\visual studio 2017\Projects\Lab4\PCLProyect\PCLProyect.csproj;neutral
+e:\documents\visual studio 2017\Projects\Lab4\UWPApp\UWPApp.csproj;x86

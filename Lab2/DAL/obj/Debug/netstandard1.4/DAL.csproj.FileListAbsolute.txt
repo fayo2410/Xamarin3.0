@@ -1,0 +1,7 @@
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\bin\Debug\netstandard1.4\DAL.deps.json
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\bin\Debug\netstandard1.4\DAL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\bin\Debug\netstandard1.4\DAL.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\obj\Debug\netstandard1.4\DAL.csprojResolveAssemblyReference.cache
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\obj\Debug\netstandard1.4\DAL.AssemblyInfo.cs
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\obj\Debug\netstandard1.4\DAL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\DAL\obj\Debug\netstandard1.4\DAL.pdb

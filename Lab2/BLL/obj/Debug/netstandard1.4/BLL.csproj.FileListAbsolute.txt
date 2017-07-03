@@ -1,0 +1,13 @@
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\BLL.deps.json
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\BLL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\BLL.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\DAL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\DAL.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\obj\Debug\netstandard1.4\BLL.csprojResolveAssemblyReference.cache
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\obj\Debug\netstandard1.4\BLL.AssemblyInfo.cs
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\obj\Debug\netstandard1.4\BLL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\obj\Debug\netstandard1.4\BLL.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\obj\Debug\netstandard1.4\BLL.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\BLL.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\obj\Debug\netstandard1.4\BLL.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\BLL\bin\Debug\netstandard1.4\BLL.dll.mdb

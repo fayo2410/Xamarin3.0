@@ -1,0 +1,15 @@
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\bin\Debug\App2.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\bin\Debug\App2.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\bin\Debug\App2.App2.apk
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\bin\Debug\App2.App2-Signed.apk
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\App2.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\App2.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\android\bin\App2.App2.apk
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\res\layout\main.xml
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\res\values\strings.xml
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\res\drawable\icon.png
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\R.cs.flag
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\uploadflags.txt
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\bin\Debug\App2.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\App2\App2\obj\Debug\android\assets\App2.dll.mdb

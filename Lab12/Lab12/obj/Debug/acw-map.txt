@@ -1,0 +1,8 @@
+Lab12.MainActivity, Lab12;md5d78e76e75041ce68e4e54b7b1fd18f83.MainActivity
+Lab12.MainActivity, Lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d78e76e75041ce68e4e54b7b1fd18f83.MainActivity
+Lab12.MainActivity;md5d78e76e75041ce68e4e54b7b1fd18f83.MainActivity
+lab12.MainActivity;md5d78e76e75041ce68e4e54b7b1fd18f83.MainActivity
+CustomAdapters.ColorAdapter, CustomAdapters;md53f899e1877622a72699b19276c334215.ColorAdapter
+CustomAdapters.ColorAdapter, CustomAdapters, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899e1877622a72699b19276c334215.ColorAdapter
+CustomAdapters.ColorAdapter;md53f899e1877622a72699b19276c334215.ColorAdapter
+customadapters.ColorAdapter;md53f899e1877622a72699b19276c334215.ColorAdapter

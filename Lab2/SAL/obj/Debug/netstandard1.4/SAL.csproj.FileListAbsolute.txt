@@ -1,0 +1,11 @@
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\bin\Debug\netstandard1.4\SAL.deps.json
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\bin\Debug\netstandard1.4\SAL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\bin\Debug\netstandard1.4\SAL.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\obj\Debug\netstandard1.4\SAL.csprojResolveAssemblyReference.cache
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\obj\Debug\netstandard1.4\SAL.AssemblyInfo.cs
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\obj\Debug\netstandard1.4\SAL.dll
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\obj\Debug\netstandard1.4\SAL.pdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\obj\Debug\netstandard1.4\SAL.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\bin\Debug\netstandard1.4\SAL.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\obj\Debug\netstandard1.4\SAL.dll.mdb
+C:\Users\JRafaelMzG\AndroidStudioProjects\DIPLOMADO\Lab2\SAL\bin\Debug\netstandard1.4\SAL.dll.mdb
